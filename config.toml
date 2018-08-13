@@ -3,7 +3,8 @@ baseURL = "https://aidanbae.github.io"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
-
+canonifyURLs = true
+# and if you think your md file names or locations might change:
 # Change to one of your content languages definded at the end.
 DefaultContentLanguage = "en"
 
@@ -45,7 +46,7 @@ disqusShortname = "aidanbae"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "코딩코딩"
+    subtitle = "삶의 지혜를 모으는 프로그래머"
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""
@@ -96,3 +97,6 @@ disqusShortname = "aidanbae"
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]
   page = [ "HTML" ]
+
+[permalinks]
+  post = "/blog/:title/"
