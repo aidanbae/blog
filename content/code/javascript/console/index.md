@@ -9,7 +9,7 @@ noSummary: false
 ---
 
 #### Intro
-자바스크립트를 쓰면서 웹어플리케이션을 만들다보면 Debug를 위해 console객체를 자주 사용하게됩니다. 간혹 잘못 사용해서 잘못된 정보를 본다면... 개발자가 그 때 쌓아올릴 탑의 높이가 높아질수록 맴찢;;
+자바스크립트를 쓰면서 웹어플리케이션을 만들다보면 Debug를 위해 console객체를 자주 사용하게됩니다. 간혹 잘못 사용해서 잘못된 정보를 본다면... 삽질의 시작이죠
 #### Why
 Console 객체의 주의해야할 점과 좋은 활용법을 터득해 즐거운 디버깅을 해봅시다.
 
@@ -56,7 +56,6 @@ console.log(sangik)
 
 ![result2](/code/javascript/console/screenshot2.png)
 
-뚜와이씨...ㅇ_ㅇ!!  
 `심란하다아주`를 펼쳤더니 `졸리당` state가 나오네요  
 객체를 펼쳐볼때 해당 녀석의 **메모리를 찾아가기때문에**  
 state가 최근값인 '졸리당'이 되어버린 상황  
@@ -92,9 +91,7 @@ console.log(JSON.stringify(sangik))
 ![result3](/code/javascript/console/screenshot3.png)
 
 ##### console.table
-펼쳐서 볼때 문제가되는거였잖아요?  
 Table을 사용하면 펼쳐볼 필요도없이 눈으로 쉽게 보라고 테이블을 그려줍니다.  
-근데도 펼쳐서보면 변태인거고...
 
 ```javascript
 ...

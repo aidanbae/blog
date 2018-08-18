@@ -141,9 +141,3 @@ commentList.find(c => c.id === commentId).child_count++
 // {id: 3, child_count: 1, message: "ㅎㅎㅎㅎ"}
 // 해당 객체의 child_count가 0에서 1로 증가되었음을 확인!
 ```
-
-여러분은 모르겠지만 강해졌습니다. 축하합니다
-
-<!--
-This is a comment
--->

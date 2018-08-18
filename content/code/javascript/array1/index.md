@@ -122,5 +122,4 @@ this.commentList = this.commentList.filter((comment) => comment.author === usern
 
 ---
 ## 마무리
-자, 여러분들은 모르시겠지만 이미 강해졌습니다.  
-각자의 프로젝트에 잘 적용해보시길!  
+인생

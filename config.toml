@@ -27,7 +27,7 @@ disqusShortname = "aidanbae"
 
   # Description and meta data for the search engines
   author = "Aidan.bae"
-  description = "아이단의 블로그입니다"
+  description = "아이단의 블로그"
   keywords = "golang,aidan,kakaogames,kakao,gocd,gocd-agent,infra,javascript,python"
 
   # How many articles should be displayed at once?
@@ -46,7 +46,7 @@ disqusShortname = "aidanbae"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "삶의 지혜를 모으는 프로그래머"
+    subtitle = "공사중"
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""
@@ -97,6 +97,3 @@ disqusShortname = "aidanbae"
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]
   page = [ "HTML" ]
-
-[permalinks]
-  post = "/blog/:title/"
