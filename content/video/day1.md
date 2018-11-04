@@ -22,5 +22,3 @@ You'll always be my day 1
 i got lucky finding you  
 i won big the day that i came across you  
 Cause when you're with me, i don't feel blue  
-
-운명의 상대를 만난다면!

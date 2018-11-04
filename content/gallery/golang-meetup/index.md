@@ -20,6 +20,11 @@ noSummary: false
 작은 토즈방에서 20명정도 모여서 소근소근 토론하는 자리가 될줄 알았는데 160명이나!!  
 개발인생 첫 발표인데 많은 사람이 와주셔서 감사한 마음으로 준비했다.
 
+##### GopherCon Talks
+
+Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소이다. 여기서 다른 좋은 발표자료도 함께 확인할 수 있다.  
+https://github.com/golangkorea/gophercon-talks
+
 ---
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/IAOoU055tM9yPS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SangikBae/golang-websocket-109095156" title="golang과 websocket을 활용한 서버프로그래밍 - 장애없는 서버 런칭 도전기" target="_blank">golang과 websocket을 활용한 서버프로그래밍 - 장애없는 서버 런칭 도전기</a> </strong> from <strong><a href="https://www.slideshare.net/SangikBae" target="_blank">Aidan</a></strong> </div>
 

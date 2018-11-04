@@ -8,8 +8,7 @@ author: "Aidan.bae"
 noSummary: false
 ---
 
-> **I'm not a perfect person,,,**  
-나는 완벽한 사람이 아니에요.  
+> *I'm not a perfect person,,,*   
 _"the reason"- Hoobastank  가사 인트로_
 
 
@@ -22,7 +21,7 @@ _"the reason"- Hoobastank  가사 인트로_
 **부정적인 감정**이 앞서게 만들고  
 이성적인 판단을 흐리게 한다.  
 
-###### 마음의 크기는 생각의 크기에 영향을 미친다  
+마음의 크기는 생각의 크기에 영향을 미친다  
 
 
 그 사람이 문제라고 생각하지 말고  

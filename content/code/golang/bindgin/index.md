@@ -5,7 +5,7 @@ date: 2018-09-11T09:31:27+01:00
 categories: ['Code', 'Golang', 'Server']
 tags: ['golang', 'middleware', 'gin.handler', 'gin']
 author: "Aidan.bae"
-draft : false
+draft : true
 noSummary: false
 ---
 
