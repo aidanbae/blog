@@ -93,14 +93,13 @@ arr.findIndex(callback[, thisArg])
 - 첫번째 인자 `callback(item, index, array)`
 - 두번째 인자 `thisArg` // optional
 
-{{% notice tip %}}
 
 주의할점
 콜백이 진리값을 반환하지 않거나, 배열의 길이가 0인경우 -1을 반환합니다.  
 findIndex는 0번째 부터 length-1까지의 인덱스요소에 대해 콜백함수를 순차적으로 실행합니다.  
 true값을 반환하는 요소가 있을 경우 순차실행을 중지하고 해당 요소의 인덱스를 반환합니다.  
 
-{{% /notice %}}
+
 
 
 ```javascript
