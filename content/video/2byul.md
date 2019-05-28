@@ -8,7 +8,7 @@ author: "Aidan.bae"
 noSummary: false
 draft: false
 
-youtube: "RmibkOh25uY"
+youtube: "kOCkne-Bku4"
 ---
 
 사랑이라는 가치는 수많은 예술작품들에서 등장하는 중요한 가치이다.  

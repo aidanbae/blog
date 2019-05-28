@@ -6,6 +6,8 @@ excludeFromTopNav: false
 
 #### Aidan_배상익
 
+연락이 필요한 경우 sangik213@gmail.com 메일 주소로 연락 주시기 바랍니다.
+
 - kakaogames 퀸스튜디오 게임서버개발 근무했음
 - kakao 선행게임개발TF 서버개발 근무했음
 - HTML5 스낵게임 클라이언트 개발 근무했음

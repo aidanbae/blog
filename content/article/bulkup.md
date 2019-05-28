@@ -5,6 +5,7 @@ date: 2018-08-03T13:01:14+01:00
 author: "Aidan.bae"
 categories: ['SmallTalk']
 tags: ['크흠']
+draft: true
 ---
 
 혼자 자취하면서  
