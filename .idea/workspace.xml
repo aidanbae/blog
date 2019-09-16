@@ -2,57 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95915cda-6aaa-4ab6-939b-70a684148536" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/content/article/book/bone/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/article/book/grow/featuredImage.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/article/book/grow/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/article/book/grow/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/article/book/linux/featuredImage.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/article/book/linux/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/article/book/lovelivelearn/featuredImage.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/article/book/lovelivelearn/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/article/sadari.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/article/yunbong.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/computer/cpucache/featuredImage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/computer/cpucache/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/computer/cpucache/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/computer/cpucache/screenshot2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/computer/cpucache/screenshot3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/computer/cpucache/screenshot4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/computer/tcmalloc/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/k8s/start/featuredImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/k8s/start/hello-node.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/k8s/start/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/devops/k8s/start/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/docker/docker-netstat/featuredImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/docker/docker-netstat/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/docker/docker-netstat/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/docker/docker-netstat/screenshot2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/golang/googlecodejam2019/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/code/golang/googlecodejam2019/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/video/gogc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/video/kakaogames_exit/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/video/kakaogames_exit/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/video/linux/io-redirection/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/video/linux/io-redirection/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/video/linux/permission/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/video/linux/permission/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/video/study/msa/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/video/study/msa/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/article/book/grow/featuredImage_hu27d59da2dc1176f2006754c072c2da56_105254_700x350_fill_q95_box_smart1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/article/book/grow/featuredImage_hue57b41dc1bd495497b8c0f8497380bb5_107116_700x350_fill_q95_box_smart1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/article/book/linux/featuredImage_hu540059bab0d5ef3cc805a921d14cade4_128104_700x350_fill_q95_box_smart1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/article/book/lovelivelearn/featuredImage_hu75bd704f72c7bbb50bbc0d12a11704ed_131440_700x350_fill_q95_box_smart1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/code/devops/computer/cpucache/featuredImage_hu040e699061db3073052773bfe1b14c9d_33766_700x350_fill_q95_box_smart1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/do.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/article/2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/code/core/shm/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/article/bulkup.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/article/bulkup.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/page/about-aidan.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/page/about-aidan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/video/2byul.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/video/2byul.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/video/hansum.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/video/hansum.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/externalDependencies.js_187be290e8222f6bb644052568a2fb6d.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/externalDependencies.js_187be290e8222f6bb644052568a2fb6d.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/externalDependencies.js_187be290e8222f6bb644052568a2fb6d.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/externalDependencies.js_187be290e8222f6bb644052568a2fb6d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/video/kakaogames_exit/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/video/kakaogames_exit/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/sass/combined.scss_1dad3bd1d055240d1e75d37c621205ba.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/sass/combined.scss_1dad3bd1d055240d1e75d37c621205ba.content" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/sass/combined.scss_1dad3bd1d055240d1e75d37c621205ba.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/sass/combined.scss_1dad3bd1d055240d1e75d37c621205ba.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/bilberry-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bilberry-hugo-theme" afterDir="false" />
@@ -67,60 +21,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/page/about-aidan.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="360">
-                <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/article/book/bone/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1080">
-                <caret line="72" selection-start-line="72" selection-end-line="72" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/video/kakaogames_exit/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="180">
-                <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/article/book/faust/featuredImage.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/article/book/faust/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="9" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/article/book/grow/index.md">
+        <entry file="file://$PROJECT_DIR$/content/quote/soso.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -130,11 +31,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/article/book/linux/index.md">
+        <entry file="file://$PROJECT_DIR$/content/article/service/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/article/bulkup.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="405">
-                <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+              <first_editor relative-caret-position="435">
+                <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/audio/gravity.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/audio/fever.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/article/2019.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/article/ha.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret selection-end-line="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -210,7 +167,6 @@
         <option value="$PROJECT_DIR$/content/code/golang/googlecodejam2019/index.md" />
         <option value="$PROJECT_DIR$/content/code/docker/docker-debug/index.md" />
         <option value="$PROJECT_DIR$/content/code/docker/docker-netstat/index.md" />
-        <option value="$PROJECT_DIR$/content/page/about-aidan.md" />
         <option value="$PROJECT_DIR$/content/article/sadari.md" />
         <option value="$PROJECT_DIR$/content/code/devops/k8s/start/index.md" />
         <option value="$PROJECT_DIR$/content/video/linux/index.md" />
@@ -222,15 +178,17 @@
         <option value="$PROJECT_DIR$/content/article/yunbong.md" />
         <option value="$PROJECT_DIR$/content/video/study/msa/index.md" />
         <option value="$PROJECT_DIR$/content/article/book/bone/index.md" />
+        <option value="$PROJECT_DIR$/content/code/core/shm/index.md" />
+        <option value="$PROJECT_DIR$/content/page/about-aidan.md" />
         <option value="$PROJECT_DIR$/content/video/kakaogames_exit/index.md" />
+        <option value="$PROJECT_DIR$/content/article/service/index.md" />
+        <option value="$PROJECT_DIR$/content/article/2019.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="636" />
-    <option name="y" value="54" />
-    <option name="width" value="1024" />
-    <option name="height" value="905" />
+    <option name="width" value="938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -238,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,45 +219,6 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="bone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="faust" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="grow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="audio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -313,27 +233,6 @@
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="devops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="devops" type="462c0819:PsiDirectoryNode" />
-              <item name="k8s" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmbook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
@@ -375,16 +274,10 @@
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="msa" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -394,7 +287,7 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/video/kakaogames_exit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -960,10 +853,9 @@
     <option name="totallyTimeSpent" value="22324000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="734" y="0" width="946" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="938" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25774336" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17522322" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -978,7 +870,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20816326" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1377551" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
@@ -1033,74 +925,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/code/devops/computer/cpucache/screenshot2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/code/devops/computer/cpucache/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/code/devops/computer/tcmalloc/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="8" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/article/book/lovelivelearn/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret selection-end-line="9" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/code/golang/googlecodejam2016/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/article/book/linux/featuredImage.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/gallery/golang-meetup/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bilberry-hugo-theme/exampleSite/content/quote/edward-snowden-privacy.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bilberry-hugo-theme/exampleSite/content/quote/einstein-sinn-des-lebens.de.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/code/golang/googlecodejam2019/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-489">
-            <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/code/docker/docker-netstat/screenshot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1123,14 +947,6 @@
           <first_editor relative-caret-position="390">
             <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/article/service/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -1193,16 +1009,6 @@
     <entry file="file://$PROJECT_DIR$/content/video/linux/io-redirection/screenshot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/code/devops/k8s/start/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="354">
-            <caret line="143" column="33" selection-start-line="143" selection-start-column="33" selection-end-line="143" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/quote/ques.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1243,16 +1049,6 @@
     <entry file="file://$PROJECT_DIR$/static/do.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/article/bulkup.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="435">
-            <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/video/sayyes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1271,14 +1067,6 @@
     </entry>
     <entry file="file://$USER_HOME$/Library/Group Containers/Q79WDW8YH9.com.evernote.Evernote/Evernote/quick-note/157787547-personal-www.evernote.com/quick-note-IaEdwn/attachment--4i6xWy/screenshot.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/quote/soso.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/article/yunbong.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1338,34 +1126,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/video/youngandbeautiful.md">
+    <entry file="file://$PROJECT_DIR$/content/article/book/bone/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1680">
-            <caret line="112" column="27" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/video/hansum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/video/study/msa/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/page/about-aidan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <first_editor relative-caret-position="1080">
+            <caret line="72" selection-start-line="72" selection-end-line="72" />
           </first_editor>
           <second_editor />
         </state>
@@ -1377,6 +1142,61 @@
     <entry file="file://$PROJECT_DIR$/content/article/book/faust/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="9" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/page/about-aidan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="523">
+            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/code/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/code/index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/code/core/shm/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/video/kakaogames_exit/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="6585">
+            <caret line="439" column="2" selection-start-line="439" selection-start-column="2" selection-end-line="439" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/video/kakaogames_exit/ka1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/video/kakaogames_exit/ka2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/video/kakaogames_exit/ka3.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/code/devops/k8s/start/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
           <first_editor>
             <caret selection-end-line="9" selection-end-column="3" />
           </first_editor>
@@ -1402,21 +1222,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/article/book/bone/index.md">
+    <entry file="file://$PROJECT_DIR$/content/video/youngandbeautiful.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1080">
-            <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <first_editor relative-caret-position="1680">
+            <caret line="112" column="27" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/video/kakaogames_exit/index.md">
+    <entry file="file://$PROJECT_DIR$/content/video/hansum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/video/study/msa/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/quote/soso.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/article/service/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/article/bulkup.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="180">
-            <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/audio/gravity.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/audio/fever.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/article/ha.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/article/2019.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>

@@ -1,13 +1,14 @@
 ---
 title: "Aidan"
-date: 2019-03-28T13:18:45+01:00
+date: 2019-08-28T13:18:45+01:00
 excludeFromTopNav: false
 ---
 
 #### Aidan_배상익
 
-연락이 필요한 경우 sangik213@gmail.com 메일 주소로 연락 주시기 바랍니다.
+contact me:  sangik213@gmail.com 
 
+- Toss, Securities Silo 서버개발 근무중
 - kakaogames 퀸스튜디오 게임서버개발 근무했음
 - kakao 선행게임개발TF 서버개발 근무했음
 - HTML5 스낵게임 클라이언트 개발 근무했음
@@ -29,7 +30,7 @@ excludeFromTopNav: false
 
 <br>
 #### DevOps
-**`GoCD`, `Ansible`, `Mesos-marathon`, `Docker`, `Linux`, `AWS`**  
+**`Kubernetes`, `GoCD`, `Ansible`, `Mesos-marathon`, `Docker`, `Linux`, `AWS`**  
 
 코어에 집중할 수 있도록 테스트 빌드 배포까지의 자동화시스템구축에 관심이 많습니다.  
 Cloud, 가상화, 분산시스템을 좋아합니다.
