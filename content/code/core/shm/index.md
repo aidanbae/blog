@@ -6,7 +6,7 @@ author: "Aidan.bae"
 categories: ['Code', 'DevOps']
 tags: ['공유메모리', '코어']
 noSummary: false
-draft: true
+draft: false
 ---
 
 어쩌다보니 c 프로그래밍을 깊게 해야될 일이 생겼습니다.
