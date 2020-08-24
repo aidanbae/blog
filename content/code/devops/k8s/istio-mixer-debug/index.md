@@ -68,17 +68,17 @@ context.protocol              : http
 context.proxy_error_code      : -
 context.proxy_version         : 1.4.0
 context.reporter.kind         : inbound
-context.reporter.uid          : kubernetes://voyager-message-agent-live-79ff5b5498-4jfht.live
+context.reporter.uid          : kubernetes://~~~~-79ff5b5498-4jfht.live
 destination.ip                : [0 0 0 0 0 0 0 0 0 0 255 255 10 233 74 246]
 destination.namespace         : live
 destination.port              : 10810
-destination.service.host      : voyager-message-agent-live.live.svc.cluster.local
-destination.service.name      : voyager-message-agent-live
+destination.service.host      : ~~~.live.svc.cluster.local
+destination.service.name      : ~~~
 destination.service.namespace : live
-destination.service.uid       : istio://live/services/voyager-message-agent-live
-destination.uid               : kubernetes://voyager-message-agent-live-79ff5b5498-4jfht.live
+destination.service.uid       : istio://live/services/~~~~
+destination.uid               : kubernetes://~~~~.live
 origin.ip                     : [172 16 60 51]
-request.headers               : stringmap[:authority:10.233.74.246:10810 :method:GET :path:/health accept-encoding:gzip user-agent:kube-probe/1.14 x-b3-sampled:0 x-b3-spanid:2426b947e3649f03 x-b3-traceid:03e874e74590cfd22426b947e3649f03 x-forwarded-proto:http x-request-id:fe707112-f1ad-4758-9167-935993ec821f]
+request.headers               : stringmap[:authority:~~~~ :method:GET :path:/health accept-encoding:gzip user-agent:kube-probe/1.14 x-b3-sampled:0 x-b3-spanid:2426b947e3649f03 x-b3-traceid:03e874e74590cfd22426b947e3649f03 x-forwarded-proto:http x-request-id:fe707112-f1ad-4758-9167-935993ec821f]
 request.host                  : 10.233.74.246:10810
 request.method                : GET
 request.path                  : /health
@@ -90,7 +90,7 @@ request.url_path              : /health
 request.useragent             : kube-probe/1.14
 response.code                 : 200
 response.duration             : 702.709µs
-response.headers              : stringmap[:status:200 connection:close content-length:0 date:Sun, 24 Nov 2019 06:34:35 GMT server:istio-envoy x-envoy-decorator-operation:voyager-message-agent-live.live.svc.cluster.local:80/* x-envoy-upstream-healthchecked-cluster:voyager-message-agent.live x-envoy-upstream-service-time:0]
+response.headers              : stringmap[:status:200 connection:close content-length:0 date:Sun, 24 Nov 2019 06:34:35 GMT server:istio-envoy x-envoy-decorator-operation:~~~~.live.svc.cluster.local:80/* x-envoy-upstream-healthchecked-cluster:voyager-message-agent.live x-envoy-upstream-service-time:0]
 response.size                 : 0
 response.time                 : 2019-11-24 06:34:35.402313 +0000 UTC
 response.total_size           : 265
@@ -105,14 +105,14 @@ context.reporter.kind         : outbound
 context.reporter.uid          : kubernetes://istio-ingressgateway-74747c4b5b-9xh9d.istio-system
 destination.ip                : [10 233 70 250]
 destination.port              : 8200
-destination.service.host      : apm-server.infra.svc.cluster.local
-destination.service.name      : apm-server
+destination.service.host      : ~~~~.infra.svc.cluster.local
+destination.service.name      : ~~~~
 destination.service.namespace : infra
 destination.service.uid       : istio://infra/services/apm-server
 destination.uid               : kubernetes://apm-server-77769c7774-fk84t.infra
 origin.ip                     : [172 16 60 55]
-request.headers               : stringmap[:authority:apm-server.live.tossinvest.bz :method:POST :path:/intake/v2/events accept:text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2 cache-control:no-cache content-encoding:deflate content-type:application/x-ndjson pragma:no-cache user-agent:elasticapm-java/1.11.0 x-b3-parentspanid:8e8b487a024c77a3 x-b3-sampled:0 x-b3-spanid:eaec8cf992cc2f27 x-b3-traceid:187803d56ecc87e08e8b487a024c77a3 x-envoy-decorator-operation:apm-server.infra.svc.cluster.local:8200/* x-envoy-external-address:172.16.60.55 x-forwarded-for:172.16.60.45   ,172.16.60.55 x-forwarded-proto:http x-request-id:6dbf98a6-ae72-4b3b-bf70-1b4006c21e55]
-request.host                  : apm-server.live.tossinvest.bz
+request.headers               : stringmap[:authority:~~~~~ :method:POST :path:/intake/v2/events accept:text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2 cache-control:no-cache content-encoding:deflate content-type:application/x-ndjson pragma:no-cache user-agent:elasticapm-java/1.11.0 x-b3-parentspanid:8e8b487a024c77a3 x-b3-sampled:0 x-b3-spanid:eaec8cf992cc2f27 x-b3-traceid:187803d56ecc87e08e8b487a024c77a3 x-envoy-decorator-operation:-~~~.infra.svc.cluster.local:8200/* x-envoy-external-address:~~~~ x-forwarded-for:~~~~ x-forwarded-proto:http x-request-id:6dbf98a6-ae72-4b3b-bf70-1b4006c21e55]
+request.host                  : ~~~~
 request.method                : POST
 request.path                  : /intake/v2/events
 request.scheme                : http

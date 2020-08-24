@@ -1,6 +1,6 @@
 ---
 title: "Aidan"
-date: 2019-08-28T13:18:45+01:00
+date: 2020-08-01T13:18:45+01:00
 excludeFromTopNav: false
 ---
 
@@ -8,7 +8,8 @@ excludeFromTopNav: false
 
 sangik213@gmail.com
 
-- Toss, Securities Silo DevOps 엔지니어 근무중
+- ?!
+- Toss, Securities Silo DevOps 엔지니어 근무했음
 - kakaogames 퀸스튜디오 게임서버개발 근무했음
 - kakao 선행게임개발TF 서버개발 근무했음
 - HTML5 스낵게임 클라이언트 개발 근무했음
